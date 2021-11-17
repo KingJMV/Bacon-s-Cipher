@@ -1,6 +1,6 @@
 1. Bacon Cipher is a method of steganography (a method of hiding a secret message as opposed to just a cipher)
 
-1. Basically just a combination of letters that are linked to a certain letter
+1. Basically just a combination of letters that are linked to a certain single letter
 
 1. Devised by Francis Bacon in 1605
 
