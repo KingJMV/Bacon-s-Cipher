@@ -1,10 +1,10 @@
 1. Bacon Cipher is a method of steganography (a method of hiding a secret message as opposed to just a cipher)
 
-1. Basically just a combination of letters that are linked to a certain single letter
+2. Basically just a combination of letters that are linked to a certain single letter
 
-1. Devised by Francis Bacon in 1605
+3. Devised by Francis Bacon in 1605
 
-1. William Shakespere used Bacon Cipher
+4. William Shakespere used Bacon Cipher
 
 ![error](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgexdvzzKgvvGH6DcjM0hehnSKByl7xiwI6t25RjtGuamww9Ow8XIOcW-Qcbxq3FQ-Hc:https://www.wondersandmarvels.com/wp-content/uploads/2012/12/Bacon-1.png&usqp=CAU)
 
