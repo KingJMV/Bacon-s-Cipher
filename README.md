@@ -1,3 +1,3 @@
 # Bacon-s-Cipher
 
-* [Computer code](code.md)
+* [Computer-code](code.md)
