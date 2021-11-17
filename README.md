@@ -1,3 +1,3 @@
 # Bacon-s-Cipher
 
-* [Agole](mathematical analysis.md)
+* [Agole](mathematicalanalysis.md)
