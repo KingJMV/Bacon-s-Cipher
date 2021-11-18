@@ -1,3 +1,3 @@
 # Bacon-s-Cipher
-[Historical content](HC.md)
-[Mechanics](aaron.md)
+1. [Historical content](HC.md)
+2. [Mechanics](aaron.md)
