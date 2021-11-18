@@ -1,2 +1,2 @@
 # Bacon-s-Cipher
-* [mechanics](aaron.md)
+[mechanics](aaron.md)
