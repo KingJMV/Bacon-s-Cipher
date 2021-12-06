@@ -1,15 +1,12 @@
 Facts about mechanincs 
 
-1. The first school for automobile mechanics opened in 1904
+1. The Bacon cipher is a substitution cipher in which each letter is replaced by a sequence of 5 characters
 
-2. Many early mechanics were also chauffeurs
+2. In 1623, Francis Bacon created a cipher system using the techniques of substitution and steganography (which is a method of hiding a secret message as opposed to just a cipher)
 
-3. The best-paid 25 percent made $56,140 that year, while the lowest-paid 25 percent made $31,250.
+3. The main advantage of the cipher is that it allows hiding the fact that a secret message has already sent all the information.
 
-4. A mechanic is responsible for inspecting and repairing vehicles, machinery, and light trucks.
 
-5. A mechaninc needs diagnostic and problem-solving skills, good hand-eye coordination and manual dexterity.
+![bacon](https://media.geeksforgeeks.org/wp-content/uploads/Bacon-Cipher.png)
 
-![mech](https://www.cati.ca/wp-content/uploads/2016/08/Learning-how-to-check-an-engine-and-alternator-is-part-of-any-auto-mechanic-training.jpg)
-
-![mech](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxGGElqyUwKdf1Lys9yNxTUSkmim_Sthe0w:https://cdn.nolaautomotiverepairs.com/wp-content/uploads/2020/10/auto-repair-300x200.jpg&usqp=CAU)
+![bacon](https://i.ytimg.com/vi/T6lg0qC27I4/maxresdefault.jpg)
