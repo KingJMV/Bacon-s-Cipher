@@ -8,7 +8,7 @@ Fun Facts
 
 3. The objective importance of mathematical analysis as a means of studying functions.
 
-4. In mathematics, real analysis is the branch of mathematical analysis that studies the behavior of real numbers, sequences and series of real numbers, and real functions.
+4. Each letter is enciphered with the function (ax + b) mod 26, where b is the magnitude of the shift.
 
 
 ![Mathematical Analysis](https://upload.wikimedia.org/wikipedia/commons/9/95/Attracteur_%C3%A9trange_de_Lorenz.png)
