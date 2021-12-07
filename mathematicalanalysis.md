@@ -2,14 +2,13 @@
 
 Fun Facts
 
-1. The affine cipher is a type of monoalphabetic substitution cipher, where each letter in an alphabet is mapped to its numeric equivalent, encrypted using a simple mathematical function, and converted back to a letter.
+1. The main advantage of the cipher is that it allows hiding the fact that a secret message has been sent at all.
 
-2. It is useful in many branches of mathematics, including algebraic geometry, number theory, applied mathematics; as well as in physics, including hydrodynamics, thermodynamics, mechanical engineering, electrical engineering, and particularly, quantum field theory.
+2. Bacon’s cipher or the Baconian cipher is a method of steganography (a method of hiding a secret message as opposed to just a cipher).
 
 3. The objective importance of mathematical analysis as a means of studying functions.
 
-4. Each letter is enciphered with the function (ax + b) mod 26, where b is the magnitude of the shift.
-
+4. A message is concealed in the presentation of text, rather than its content.
 
 ![Mathematical Analysis](https://upload.wikimedia.org/wikipedia/commons/9/95/Attracteur_%C3%A9trange_de_Lorenz.png)
 
